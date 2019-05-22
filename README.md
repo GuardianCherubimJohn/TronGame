@@ -17,7 +17,7 @@ My list of wants for this game, if anyone can help, please do it would certainly
 - It would be wonderful to have 3 on 3 teams, 3 players cooperative against the AI 
 - Effects for the collision
 - The tanks possibly, they were in parts in Tron 2.0
-- Oh I had ideas of remaking the other games from the arcade version like the grid bugs, the MCP fight, the Discs of Tron, a new game for the Solar Sails, oh yeah, had some pretty excessive ones in there, but when you've been working 
+- I had ideas of remaking the other games from the arcade version like the grid bugs, the MCP fight, the Discs of Tron, a new game for the Solar Sails
 
 Tron is copyrighted by Disney, this is sort of a fan remake of the light cycles game. Plenty of folks make remakes like this. I'm just spreading the love and good ideas. I see all these folks today working on the zombie type games, yikes. Let's please not forget the things that made gaming good. Walt and Roy Disney, they made something wonderful and fantastic. 
 
