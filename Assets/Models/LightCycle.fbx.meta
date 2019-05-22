@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: ccc51b3d514104dd9946ac5329d8ca56
+timeCreated: 1514598692
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BackExhaust
+    100002: BackExhaust.001
+    100004: BackExhaust.002
+    100006: BackWheelOuter
+    100008: BackWheelOuter.001
+    100010: BackWheelOuter.002
+    100012: Camera
+    100014: Floor
+    100016: FrontWheelOuter
+    100018: FrontWheelOuter.001
+    100020: FrontWheelOuter.002
+    100022: InnerWheels
+    100024: InnerWheels.001
+    100026: InnerWheels.002
+    100028: Lamp
+    100030: Level
+    100032: //RootNode
+    100034: LightCycleBlue
+    100036: LightCycleRed
+    100038: LightCycleTrail
+    100040: LightCycleTrail.001
+    100042: LightCycleTrail.002
+    100044: LightCycleYellow
+    100046: MainChasis
+    100048: MainChasis.001
+    100050: MainChasis.002
+    100052: SideWindows
+    100054: SideWindows.001
+    100056: SideWindows.002
+    100058: Under Carriage
+    100060: Under Carriage.001
+    100062: Under Carriage.002
+    100064: UnderSpoke
+    100066: UnderSpoke.001
+    100068: UnderSpoke.002
+    100070: WallDecor
+    100072: WallDecor_MeshPart0
+    100074: WallDecor_MeshPart1
+    100076: WallDecor_MeshPart2
+    100078: WallDecor_MeshPart3
+    100080: WallDecor_MeshPart4
+    100082: WallOuter
+    100084: WallOuter.001
+    100086: WallOuter.001_MeshPart0
+    100088: WallOuter.001_MeshPart1
+    100090: WallOuter.002
+    100092: WallOuter.002_MeshPart0
+    100094: WallOuter.002_MeshPart1
+    100096: WallOuter.003
+    100098: WallOuter.003_MeshPart0
+    100100: WallOuter.003_MeshPart1
+    100102: WallOuter_MeshPart0
+    100104: WallOuter_MeshPart1
+    400000: BackExhaust
+    400002: BackExhaust.001
+    400004: BackExhaust.002
+    400006: BackWheelOuter
+    400008: BackWheelOuter.001
+    400010: BackWheelOuter.002
+    400012: Camera
+    400014: Floor
+    400016: FrontWheelOuter
+    400018: FrontWheelOuter.001
+    400020: FrontWheelOuter.002
+    400022: InnerWheels
+    400024: InnerWheels.001
+    400026: InnerWheels.002
+    400028: Lamp
+    400030: Level
+    400032: //RootNode
+    400034: LightCycleBlue
+    400036: LightCycleRed
+    400038: LightCycleTrail
+    400040: LightCycleTrail.001
+    400042: LightCycleTrail.002
+    400044: LightCycleYellow
+    400046: MainChasis
+    400048: MainChasis.001
+    400050: MainChasis.002
+    400052: SideWindows
+    400054: SideWindows.001
+    400056: SideWindows.002
+    400058: Under Carriage
+    400060: Under Carriage.001
+    400062: Under Carriage.002
+    400064: UnderSpoke
+    400066: UnderSpoke.001
+    400068: UnderSpoke.002
+    400070: WallDecor
+    400072: WallDecor_MeshPart0
+    400074: WallDecor_MeshPart1
+    400076: WallDecor_MeshPart2
+    400078: WallDecor_MeshPart3
+    400080: WallDecor_MeshPart4
+    400082: WallOuter
+    400084: WallOuter.001
+    400086: WallOuter.001_MeshPart0
+    400088: WallOuter.001_MeshPart1
+    400090: WallOuter.002
+    400092: WallOuter.002_MeshPart0
+    400094: WallOuter.002_MeshPart1
+    400096: WallOuter.003
+    400098: WallOuter.003_MeshPart0
+    400100: WallOuter.003_MeshPart1
+    400102: WallOuter_MeshPart0
+    400104: WallOuter_MeshPart1
+    2000000: Camera
+    2300000: BackExhaust
+    2300002: BackExhaust.001
+    2300004: BackExhaust.002
+    2300006: BackWheelOuter
+    2300008: BackWheelOuter.001
+    2300010: BackWheelOuter.002
+    2300012: Floor
+    2300014: FrontWheelOuter
+    2300016: FrontWheelOuter.001
+    2300018: FrontWheelOuter.002
+    2300020: InnerWheels
+    2300022: InnerWheels.001
+    2300024: InnerWheels.002
+    2300026: LightCycleTrail
+    2300028: LightCycleTrail.001
+    2300030: LightCycleTrail.002
+    2300032: MainChasis
+    2300034: MainChasis.001
+    2300036: MainChasis.002
+    2300038: SideWindows
+    2300040: SideWindows.001
+    2300042: SideWindows.002
+    2300044: Under Carriage
+    2300046: Under Carriage.001
+    2300048: Under Carriage.002
+    2300050: UnderSpoke
+    2300052: UnderSpoke.001
+    2300054: UnderSpoke.002
+    2300056: WallDecor_MeshPart0
+    2300058: WallDecor_MeshPart1
+    2300060: WallDecor_MeshPart2
+    2300062: WallDecor_MeshPart3
+    2300064: WallDecor_MeshPart4
+    2300066: WallOuter.001_MeshPart0
+    2300068: WallOuter.001_MeshPart1
+    2300070: WallOuter.002_MeshPart0
+    2300072: WallOuter.002_MeshPart1
+    2300074: WallOuter.003_MeshPart0
+    2300076: WallOuter.003_MeshPart1
+    2300078: WallOuter_MeshPart0
+    2300080: WallOuter_MeshPart1
+    3300000: BackExhaust
+    3300002: BackExhaust.001
+    3300004: BackExhaust.002
+    3300006: BackWheelOuter
+    3300008: BackWheelOuter.001
+    3300010: BackWheelOuter.002
+    3300012: Floor
+    3300014: FrontWheelOuter
+    3300016: FrontWheelOuter.001
+    3300018: FrontWheelOuter.002
+    3300020: InnerWheels
+    3300022: InnerWheels.001
+    3300024: InnerWheels.002
+    3300026: LightCycleTrail
+    3300028: LightCycleTrail.001
+    3300030: LightCycleTrail.002
+    3300032: MainChasis
+    3300034: MainChasis.001
+    3300036: MainChasis.002
+    3300038: SideWindows
+    3300040: SideWindows.001
+    3300042: SideWindows.002
+    3300044: Under Carriage
+    3300046: Under Carriage.001
+    3300048: Under Carriage.002
+    3300050: UnderSpoke
+    3300052: UnderSpoke.001
+    3300054: UnderSpoke.002
+    3300056: WallDecor_MeshPart0
+    3300058: WallDecor_MeshPart1
+    3300060: WallDecor_MeshPart2
+    3300062: WallDecor_MeshPart3
+    3300064: WallDecor_MeshPart4
+    3300066: WallOuter.001_MeshPart0
+    3300068: WallOuter.001_MeshPart1
+    3300070: WallOuter.002_MeshPart0
+    3300072: WallOuter.002_MeshPart1
+    3300074: WallOuter.003_MeshPart0
+    3300076: WallOuter.003_MeshPart1
+    3300078: WallOuter_MeshPart0
+    3300080: WallOuter_MeshPart1
+    4300000: LightCycleTrail.002
+    4300002: BackExhaust.002
+    4300004: BackWheelOuter.002
+    4300006: UnderSpoke.002
+    4300008: FrontWheelOuter.002
+    4300010: InnerWheels.002
+    4300012: Under Carriage.002
+    4300014: SideWindows.002
+    4300016: MainChasis.002
+    4300018: LightCycleTrail.001
+    4300020: BackExhaust.001
+    4300022: BackWheelOuter.001
+    4300024: UnderSpoke.001
+    4300026: FrontWheelOuter.001
+    4300028: InnerWheels.001
+    4300030: Under Carriage.001
+    4300032: SideWindows.001
+    4300034: MainChasis.001
+    4300036: WallOuter.003_MeshPart0
+    4300038: WallOuter.003_MeshPart1
+    4300040: WallOuter.002_MeshPart0
+    4300042: WallOuter.002_MeshPart1
+    4300044: WallOuter.001_MeshPart0
+    4300046: WallOuter.001_MeshPart1
+    4300048: Floor
+    4300050: WallDecor_MeshPart0
+    4300052: WallDecor_MeshPart1
+    4300054: WallDecor_MeshPart2
+    4300056: WallDecor_MeshPart3
+    4300058: WallDecor_MeshPart4
+    4300060: WallOuter_MeshPart0
+    4300062: WallOuter_MeshPart1
+    4300064: MainChasis
+    4300066: SideWindows
+    4300068: Under Carriage
+    4300070: InnerWheels
+    4300072: FrontWheelOuter
+    4300074: UnderSpoke
+    4300076: BackWheelOuter
+    4300078: BackExhaust
+    4300080: LightCycleTrail
+    10800000: Lamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightCycleWallRed
+    second: {fileID: 2100000, guid: a08f2fd6c75a2422cbea5dc161f7d879, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightCycleWallRed.001
+    second: {fileID: 2100000, guid: 912fb9eddf057412484a603706cddadc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightCycleWallYellow
+    second: {fileID: 2100000, guid: 858aba01b0109482f83b54e9e3432b70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: f015f92616e404c8483ce12ad3867158, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: b14f676edc855496db3fd2242ab0fe2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 2fbb8209b12ba4a5d88ffcc768770923, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 3145c868ba5b440c7b5823de1c886994, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 82c9c04c9b4d74ee582d9d6c1c5232e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 881ce7351de1c405ca79c005b7f2415c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 8fdda5849d25747a78f6edb634b72df7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 9e4b83c3a131d442eb3092bc68618ddf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: dfa8f2fa094c24369bde1cb3423d5ee7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 474d9b034d26740cc8b371832e239cec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: 93d42db7a89694d33afe4ec3646a700e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {fileID: 2100000, guid: 8690afa1afad64522b078984379534cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.014
+    second: {fileID: 2100000, guid: aaf4096f505714d08b9e37f57f5f6ce6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015
+    second: {fileID: 2100000, guid: 73cdd6efdd50c494a9bfca3ab89f2943, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016
+    second: {fileID: 2100000, guid: a5b9ea6f7393e4bbc88a4c4a9243dfb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: 37644a64b404f45d9b647c44a71a3ba4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.018
+    second: {fileID: 2100000, guid: 7a5fcf8e85837474e8210eb792740f52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.019
+    second: {fileID: 2100000, guid: 9c87ba082402f427787b18f311f7e4bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YellowBackWheel
+    second: {fileID: 2100000, guid: 5f28cb5617822499a92f4f5f09c20cfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YellowChassis
+    second: {fileID: 2100000, guid: a3779e5378e0941e5b51db991ea8ea50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YellowFrontWheel
+    second: {fileID: 2100000, guid: 5f243d413c7d64f89ad90b2fc5e97e10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YellowSpoke
+    second: {fileID: 2100000, guid: 898f35497ba754f0a8f3d68c406bec81, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

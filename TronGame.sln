@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TronGame", "TronGame.csproj", "{5C8EF13F-1C53-C500-53AE-2C89F7FBDB6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TronGame.Plugins", "TronGame.Plugins.csproj", "{158C3E86-168B-712B-BFE3-A3151337B1C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TronGame.Editor.Plugins", "TronGame.Editor.Plugins.csproj", "{377FD995-2E13-0800-035C-65B54B2324AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TronGame.Editor", "TronGame.Editor.csproj", "{8B7A5F3F-B877-BA26-8CEB-F9B1F75CD253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C8EF13F-1C53-C500-53AE-2C89F7FBDB6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8EF13F-1C53-C500-53AE-2C89F7FBDB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8EF13F-1C53-C500-53AE-2C89F7FBDB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8EF13F-1C53-C500-53AE-2C89F7FBDB6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{158C3E86-168B-712B-BFE3-A3151337B1C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158C3E86-168B-712B-BFE3-A3151337B1C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158C3E86-168B-712B-BFE3-A3151337B1C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158C3E86-168B-712B-BFE3-A3151337B1C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{377FD995-2E13-0800-035C-65B54B2324AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377FD995-2E13-0800-035C-65B54B2324AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377FD995-2E13-0800-035C-65B54B2324AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377FD995-2E13-0800-035C-65B54B2324AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7A5F3F-B877-BA26-8CEB-F9B1F75CD253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7A5F3F-B877-BA26-8CEB-F9B1F75CD253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7A5F3F-B877-BA26-8CEB-F9B1F75CD253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7A5F3F-B877-BA26-8CEB-F9B1F75CD253}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
