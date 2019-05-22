@@ -24,5 +24,3 @@ Tron is copyrighted by Disney, this is sort of a fan remake of the light cycles 
 Cannot gaming also be a message to spread about love? There are times that you are plentiful and I am in need, there are times when I am plentiful and you are in need. I was not just a programmer at companies, but I helped at the food pantry, I helped donate to the Goodwill and the Salvation Army. I took moral steps of courage that were difficult.
 
 Maybe Disney could get behind this and I would hope help us out a little, sure I was a computer programming contest team winner out at AT&T back in 2015, but these days I'm on hard times I'm on medical disability when what I've wanted most was to be a husband and father, and the maximum the SGA allows is $1200 a month, I've had a hard time finding work that won't work me to death, and I need a breather financially, so does my mother and father they're getting ready to retire.
-
-Please donate at the following link to help keep this project going: https://paypal.me/JohnnyBeMyPal
