@@ -19,7 +19,7 @@ My list of wants for this game, if anyone can help, please do it would certainly
 - The tanks possibly, they were in parts in Tron 2.0
 - I had ideas of remaking the other games from the arcade version like the grid bugs, the MCP fight, the Discs of Tron, a new game for the Solar Sails
 
-Tron is copyrighted by Disney, this is sort of a fan remake of the light cycles game. Plenty of folks make remakes like this. I'm just spreading the love and good ideas. 
+Tron is copyrighted by Disney, this is sort of a fan remake of the light cycles game. Plenty of folks make remakes like this. I'm just spreading the love and good ideas, even if it's not new and unique, it's something that's already there, that can be improved upon, is how I see it. 
 
 I see all these folks today working on these zombie type games, yikes. 
 
