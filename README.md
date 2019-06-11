@@ -25,4 +25,4 @@ I see all these folks today working on these zombie type games, yikes.
 
 Let's please not forget the things that made gaming good. Walt and Roy Disney made something wonderful and fantastic. 
 
-Cannot gaming also be a message to spread about love? If you're bored, feel free to jump in and help, it could also be a good learning project. I already contacted Disney and their automated response said that they are not taking new idea submissions, of course they are also busy with the opening of the new Star Wars rides at Disneyland and Disney World theme parks, and even despite this response, I still like Disney. 
+Cannot gaming also be a message to spread about love? If you're bored, feel free to jump in and help, it could also be a good learning project. I already contacted Disney and their automated response said that they are not taking new idea submissions, of course they are also busy with the opening of the new Star Wars rides at Disneyland and Disney World theme parks, and even despite this response, I still love Disney. I was a fan of the Tron movie as a kid.
